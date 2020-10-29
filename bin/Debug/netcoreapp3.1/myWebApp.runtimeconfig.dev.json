@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dinka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dinka\\.nuget\\packages"
+    ]
+  }
+}
